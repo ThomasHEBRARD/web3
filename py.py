@@ -1,4 +1,0 @@
-import requests
-import pprint
-
-API_KEY="QCXYQAWT76S2WED57P5T19XC7KN84E7N55"
